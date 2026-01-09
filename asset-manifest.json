@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Website-For-my-dad-/static/css/main.17f4d341.css",
-    "main.js": "/Website-For-my-dad-/static/js/main.e64ce495.js",
-    "index.html": "/Website-For-my-dad-/index.html",
-    "main.17f4d341.css.map": "/Website-For-my-dad-/static/css/main.17f4d341.css.map",
-    "main.e64ce495.js.map": "/Website-For-my-dad-/static/js/main.e64ce495.js.map"
+    "main.css": "/DS-Herbal-Medicine/static/css/main.17f4d341.css",
+    "main.js": "/DS-Herbal-Medicine/static/js/main.e64ce495.js",
+    "index.html": "/DS-Herbal-Medicine/index.html",
+    "main.17f4d341.css.map": "/DS-Herbal-Medicine/static/css/main.17f4d341.css.map",
+    "main.e64ce495.js.map": "/DS-Herbal-Medicine/static/js/main.e64ce495.js.map"
   },
   "entrypoints": [
     "static/css/main.17f4d341.css",
